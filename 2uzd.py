@@ -8,8 +8,6 @@ def fr3(csv1):
             
             print("Otrās kolonnas dati: ")
             for rinda in r1:
-                if len(rinda) > 1:
-                    print(rinda[1])
+                    print(rinda[2])
 csv1 = '2uzd.csv'
-
 fr3(csv1)
