@@ -2,7 +2,7 @@
 
 import csv
 
-def nolasit_un_drukaj_otro_kolonnu(csv1):
+def fr3(csv1):
         with open(csv1, 'r', encoding='utf-8') as r2:
             r1 = csv.reader(r2)
             
@@ -10,8 +10,6 @@ def nolasit_un_drukaj_otro_kolonnu(csv1):
             for rinda in r1:
                 if len(rinda) > 1:
                     print(rinda[1])
-
-
 csv1 = '2uzd.csv'
 
-nolasit_un_drukaj_otro_kolonnu(csv1)
+fr3(csv1)
