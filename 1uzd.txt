@@ -1,3 +1,4 @@
-Šis ir pirmais uzdevums
-Es negribu darīt pirmo uzdevumu
-Es neko neatceros par python
+Teksta faila 1. rindina
+teksta faila 2. rindina
+teksta faila 3. rindina
+teksta faila 4. rindina
